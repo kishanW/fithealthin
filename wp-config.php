@@ -16,16 +16,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'fithealthin_ti');
+define('DB_NAME', '***');
 
 /** MySQL database username */
-define('DB_USER', 'fithealt_worker');
+define('DB_USER', '***');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Columbus_40');
+define('DB_PASSWORD', '***');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '***');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
