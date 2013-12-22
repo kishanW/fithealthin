@@ -3,6 +3,7 @@
 ### WordPress ###
 .htaccess
 wp-config.php
+wp-config.php.orig
 wp-content/uploads/
 wp-content/blogs.dir/
 wp-content/upgrade/
